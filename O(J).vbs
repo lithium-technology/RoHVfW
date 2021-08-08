@@ -9,3 +9,5 @@ start explorer
 start control
 start calc
 goto x
+
+'Opens several applications at once
